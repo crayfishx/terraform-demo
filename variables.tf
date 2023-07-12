@@ -7,7 +7,6 @@ variable "domain" {
 
 variable "instance_name" {
   type = string
-  default = "terraform-demo"
 }
 
 variable "ami_id" {
